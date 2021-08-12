@@ -23,7 +23,7 @@ int main(){
 			//printf("WRONG NUMBER\N");
 		}
 		else{
-			printf("\nyou guessed in %d",number);
+			printf("\nyou guessed in %d is correct",number);
 		}
 		nguesses++;
 	}
